@@ -15,3 +15,5 @@ Before live release: confirm coverage; review copy and provider relationship; te
 
 ## Research caveats
 Search results contain existing city service pages, so no low-competition or traffic estimate is asserted. No keyword-volume or KD data was available. No fixed page quota.
+
+Template adaptation: Base44 technical/cyan with mono labels, outlined flow type and light content sections. Required page architecture, exact form and source links preserved. 15/16-page counts vary with useful local research, not a fixed neighborhood quota. Public competitor search returned existing local service pages; no low-competition claim.
