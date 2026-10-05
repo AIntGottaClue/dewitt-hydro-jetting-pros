@@ -1,4 +1,4 @@
-export const neighborhoods = [
+export const neighborhoods =  [
   {
     "slug": "jamesville",
     "name": "Jamesville",
@@ -12,6 +12,13 @@ export const neighborhoods = [
         "ps": [
           "The town's 2019 Jamesville Hamlet Master Plan records the creation of the Jamesville Sewer District in 2009 and describes the hamlet's older housing and mixed-use buildings. This page concerns Jamesville within DeWitt, not every address using the postal name. See <a href=\"https://cms8.revize.com/revize/dewittny/Planning%20and%20Zoning/Planning%20and%20Sustainability/Jamesville%20Hamlet%20Master%20Plan%202019.pdf\">Town of DeWitt Jamesville Hamlet Master Plan</a>.",
           "Local history does not identify a private pipe's material, age or condition. Confirm the address, connection and access before choosing work."
+        ]
+      },
+      {
+        "h": "Which hydro jetting pages are worth reading before a request in Jamesville?",
+        "ps": [
+          "Read <a href=\"/guides/how-hydro-jetting-works/\">how hydro jetting works</a> first if the method is new to you. Then pick the page that matches what the drain is doing: <a href=\"/services/recurring-clogs-and-slow-drains/\">recurring clogs</a>, <a href=\"/services/severe-grease-and-sludge/\">grease and sludge</a> or <a href=\"/services/tree-root-intrusions/\">tree roots</a>.",
+          "<a href=\"/services/preventative-maintenance/\">Preventative hydro jetting</a> is the page for a line that is working now and that you want to keep clear. The <a href=\"/\">DeWitt hydro jetting page</a> lists the rest for DeWitt."
         ]
       },
       {
