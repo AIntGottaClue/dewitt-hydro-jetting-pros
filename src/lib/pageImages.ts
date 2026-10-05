@@ -1,22 +1,22 @@
 export const pageImages = [
   {
-    "src": "/images/library/power-spray-1.jpg",
+    "src": "/images/library/power-spray-1.webp",
     "alt": "Hydro jetting nozzle spraying water inside a drain pipe"
   },
   {
-    "src": "/images/library/pipe-blueprint-4.jpg",
+    "src": "/images/library/pipe-blueprint-4.webp",
     "alt": "Rotating water jets cleaning the inside wall of a pipe"
   },
   {
-    "src": "/images/library/sonic-blast-8.jpg",
+    "src": "/images/library/sonic-blast-8.webp",
     "alt": "Illustration of a jetting nozzle clearing buildup from a drain line"
   },
   {
-    "src": "/images/library/root-macro-action-37.jpg",
+    "src": "/images/library/root-macro-action-37.webp",
     "alt": "Water jets working through tree roots inside a sewer pipe"
   },
   {
-    "src": "/images/library/recurring-clogs-clean-sweep-41.jpg",
+    "src": "/images/library/recurring-clogs-clean-sweep-41.webp",
     "alt": "Hydro jetting hose and nozzle inside a clean drain pipe"
   }
 ];
